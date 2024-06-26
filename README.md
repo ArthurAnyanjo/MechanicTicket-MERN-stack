@@ -9,6 +9,7 @@ A Full stack application for a mechanic to manage all the cars in their garage -
 - Node JS
 - MongoDB
 - Express
+- Tailwind CSS
 - POSTMAN for Testing  
 
 # Action Shots
