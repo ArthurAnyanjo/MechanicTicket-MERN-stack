@@ -26,6 +26,3 @@ A Full stack application for a mechanic to manage all the cars in their garage -
 ### Delete Car Entry Details Page
 <img width="886" alt="Screenshot 2024-06-25 163846" src="https://github.com/ArthurAnyanjo/MechanicTicket-MERN-stack/assets/30736788/78498e8d-7ed5-4215-81ae-7744358a5040">
 
-### Live Website
-http://epldashboard2-env.eba-2nxc6gyk.us-east-1.elasticbeanstalk.com/#/
-
