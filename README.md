@@ -1,8 +1,8 @@
-# Mechanic Car Management APP
+# Mechanic Workshop Management APP
 
 A Full stack application using the MERN Stack
 
-A Full stack application for a mechanic to manage all the cars in their garage - User can see the status of the car as well as details about car such as the Owner Name, licence plate etc
+A Full stack application for a mechanic to manage all the cars in their garage - The user can see the status of the car as well as details about the car such as the Owner Name, licence plate etc
 
 To Build Run NPM run dev on both Backend and Frontend 
 
